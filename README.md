@@ -1,5 +1,10 @@
-## Hi there 👋
 
+- 👋 Hi, I’m Bhargav Ram Bandi
+- 👀 I’m a Full-Stack guy with currently working in Accenture and I have total of 2+ years of experience.
+- 🌱 Currently learning React.js.
+- 📫 Feel free to drop by via email (bhargav.r.bandi@gmail.com)
+
+  
 <!--
 **bhargavrambandi/bhargavrambandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
