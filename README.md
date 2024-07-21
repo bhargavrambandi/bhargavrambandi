@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Bhargav Ram Bandi
-- 👀 I’m a Full-Stack guy with currently working in Accenture and I have total of 2+ years of experience.
+- 👀 I’m a Full-Stack guy, currently working in Accenture and I have total of 2+ years of experience.
 - 🌱 Currently learning React.js.
 - 📫 Feel free to drop by via email (bhargav.r.bandi@gmail.com)
 
