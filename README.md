@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m Bhargav Ram Bandi
-- 👀 I’m a Full-Stack guy, Currently working at Accenture with over 2 years of experience.
+- 👀 I’m a Full-Stack guy, Currently working at Accenture with over 2+ years of experience.
 - 🌱 Currently learning React.js.
 - 📫 Feel free to drop by via email (bhargav.r.bandi@gmail.com)
-
+- ⚡ Fun fact: Remote work is a lifestyle....
   
 <!--
 **bhargavrambandi/bhargavrambandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
