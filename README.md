@@ -1,7 +1,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bhargavrambandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-ram-bandi/)](https://www.linkedin.com/in/bhargav-ram-bandi/)
 
-- 👋 Hi, I’m Bhargav Ram Bandi
+- 👋 Hi, I’m Bhargav Ram
 - 👀 I’m a Full-Stack guy, Currently working at Accenture with over 2+ years of experience.
 - 🌱 Currently learning React.js.
 - 📫 Feel free to drop by via email (bhargav.r.bandi@gmail.com)
