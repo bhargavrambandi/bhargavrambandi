@@ -1,8 +1,7 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhargavrambandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-ram-bandi/)](https://www.linkedin.com/in/bhargav-ram-bandi/)
 
-- 👋 Hi, I’m Bhargav Ram
--  Software engineer at [Accenture](https://www.accenture.com)
+ Hi, I’m Bhargav Ram
+ Software engineer at [Accenture](https://www.accenture.com)
   
 <!--
 **bhargavrambandi/bhargavrambandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
